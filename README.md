@@ -17,3 +17,10 @@ Acceptance Criteria
 - THEN the text for that event is saved in local storage
 - WHEN I refresh the page
 - THEN the saved events persist
+
+URL: https://lexinw.github.io/LexinProject5/
+
+Guthub link: https://github.com/LexinW/LexinProject5
+
+![Screenshot 2023-05-18 235637](https://github.com/LexinW/LexinProject5/assets/10322786/dbed927b-5b56-4091-a429-fe947e87a539)
+
